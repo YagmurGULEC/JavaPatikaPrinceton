@@ -13,6 +13,8 @@
        <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CircleAreaPerimeterCalculator.java"> Area and perimeter calculator for  the given radius of a circle -Daire alan ve cevre hesaplama programi</a> </li>
       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/BodyMassIndexCalculator.java"> Body mass index calculator for a given height and weight-Vucut kitle indeksi hesaplama programi</a> </li>
       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CashierCalculator.java"> Total price calculator based on given kilogram of grocery articles -Manav kasa programi</a> </li>
+      <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CalculatorBasicSwitchCase.java"> Basic calculator using switch-case</a> </li>
+       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/UsernamePasswordCheck.java"> Check username and password </a> </li>
     </ul>
   </li>
 </ul>
