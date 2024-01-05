@@ -11,6 +11,7 @@
        <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/AreaCalculator.java">Area Calculator for a Right Triangle- Dik ucgen alanini hesaplayan program</a> </li>
        <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/TaximeterCalculator.java">Calculator for a taxi ride price- Taksimetre programi</a> </li>
        <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CircleAreaPerimeterCalculator.java"> Area and perimeter calculator for  the given radius of a circle -Daire alan ve cevre hesaplama programi</a> </li>
+      <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/BodyMassIndexCalculator.java"> Body mass index calculator for a given height and weight-Vucut kitle indeksi hesaplama programi</a> </li>
     </ul>
   </li>
 </ul>
