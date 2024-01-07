@@ -15,6 +15,7 @@
       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CashierCalculator.java"> Total price calculator based on given kilogram of grocery articles -Manav kasa programi</a> </li>
       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/CalculatorBasicSwitchCase.java"> Basic calculator using switch-case</a> </li>
        <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/UsernamePasswordCheck.java"> Check username and password </a> </li>
+       <li> <a href="https://github.com/YagmurGULEC/JavaPatikaPrinceton/blob/main/Java101Patika/isPalindrome.java"> Check if given number is palindrome</a> </li>
     </ul>
   </li>
 </ul>
