@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HackerRankJavaExceptionHandling",
+            "request": "launch",
+            "mainClass": "HackerRankJavaExceptionHandling",
+            "projectName": "JavaPatikaPrinceton_ad1ab30a"
+        },
+        {
+            "type": "java",
+            "name": "HackerRankJavaExceptionHandling",
+            "request": "launch",
+            "mainClass": "Java102Patika.HackerRankJavaExceptionHandling",
+            "projectName": "JavaPatikaPrinceton_ad1ab30a"
+        },
+        {
+            "type": "java",
             "name": "MyList",
             "request": "launch",
             "mainClass": "Java102Patika.MyList.MyList",
