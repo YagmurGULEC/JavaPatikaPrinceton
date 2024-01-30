@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyList",
+            "request": "launch",
+            "mainClass": "Java102Patika.MyList.MyList",
+            "projectName": "JavaPatikaPrinceton_ad1ab30a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Java102Patika.MyList.Main",
+            "projectName": "JavaPatikaPrinceton_ad1ab30a"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
