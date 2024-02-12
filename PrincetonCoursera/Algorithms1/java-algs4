@@ -1,0 +1,22 @@
+#!/bin/bash
+cd ${0%/*} || exit 1    # Run from this directory
+# this must match the install directory
+LIFT_LIB="/home/yagmur/Coursera/Java102/Algorithms1/"
+
+# sets the path to the textbook libraries
+CLASSPATH=".:${LIFT_LIB}/algs4.jar"
+dir_name=$(dirname "$@")        
+class_name=$(basename "$@")        
+# execute on Windows/Linux using "java" but on OS X using "java_home -exec java"
+JAVA="java"
+if [ -f /usr/libexec/java_home ]; then
+    JAVA="/usr/libexec/java_home -exec java"
+fi
+(
+    cd $(dirname "$@") || exit 1
+    $JAVA -Dfile.encoding=UTF-8 -Duser.language=en -classpath "${CLASSPATH}" "$class_name"
+)
+
+#cd ./Week1 && $JAVA -Dfile.encoding=UTF-8 -Duser.language=en -classpath "${CLASSPATH}" "$@"
+# executes with the textbook libraries in the classpath
+#$JAVA -Dfile.encoding=UTF-8 -Duser.language=en -classpath "${CLASSPATH}" "$@"
