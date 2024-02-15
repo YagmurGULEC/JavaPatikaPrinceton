@@ -1,0 +1,9 @@
+Add Notebook
+Samsung 100 10 15
+Add CellPhone
+Samsung 100 10
+Add Notebook
+Acer 100 10 15
+Delete 2
+
+
